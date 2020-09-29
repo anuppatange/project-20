@@ -10,7 +10,7 @@ function setup() {
   car.velocityX=speed;
   car.shapeColor=color("red");
   wall=createSprite(900,200,60,height/2);
-  wall.shapeColor=color(80,80,80);
+  wall.shapeColor=color("white");
 }
 
 function draw() {
