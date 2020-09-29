@@ -2,7 +2,7 @@ var car, wall;
 var speed,weight;
 
 function setup() {
-  createCanvas(1600,400);
+  createCanvas(1100,200);
   speed=random(55,90);
   weight=random(400,1500);
 
